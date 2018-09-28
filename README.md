@@ -1,2 +1,2 @@
 # SharedSQL
-various scriblings and more on and about SQL Server/BI 
+Various scriblings and more on and about SQL Server/BI 
